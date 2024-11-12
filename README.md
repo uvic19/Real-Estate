@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 ## Live Demo
 
-You can view the live version of the app [here](https://your-live-link](https://homely-uvic19.netlify.app/).
+You can view the live version of the app [here](https://homely-uvic19.netlify.app/).
 
 ## Contribution
 
